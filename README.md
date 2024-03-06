@@ -66,14 +66,12 @@
 
 * Select one option from the radio buttons and If you select rad1: Search **channel_id**, copy and paste in **Enter the channelid** box and click the **Collect and store data** button, the data will be collected and stored in mongodb.
   #Refer below image for rad2 selection
- * ![image](https://github.com/CatherinePrincey07/YOUTUBE_DATA_HARVEST/assets/161114900/5138b473-7cd9-4aa9-a156-a394e88caf14)
 
 * selecting rad2 button will enable users to view the "select the channel here" dropdown to select the available channel id's and and click the **Collect and store data** button, the data will be collected and stored in mongodb.
-  #Refer below image for rad2 selection
-* ![image](https://github.com/CatherinePrincey07/YOUTUBE_DATA_HARVEST/assets/161114900/b8ac1b3e-15ef-483a-aebc-706e781a4091)
-
+ 
   #Refer the below image for the radio buttons
-* ![image](https://github.com/CatherinePrincey07/YOUTUBE_DATA_HARVEST/assets/161114900/5bdee12f-7fd2-410e-9043-35ca2a8b5c5b)
+* ![image](https://github.com/Amruthamesh/Youtube_Data/assets/66355198/ff9228e2-0e70-4566-805e-e28398bc4847)
+
 
 
 #### Step 2. Data Migrate zone
